@@ -1,4 +1,4 @@
 #!/bin/bash
-echo >school
-echo >SCHOOL
+echo >The school is open!
+
 

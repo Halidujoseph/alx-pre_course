@@ -1,3 +1,8 @@
 !#/bin/bash
-echo >ALX school is cool!
+<<<<<<< HEAD
+echo >ALX school
+=======
+echo >ALX School
+
+>>>>>>> update_script
 
